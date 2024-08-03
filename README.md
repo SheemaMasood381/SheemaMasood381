@@ -7,7 +7,7 @@
 
 💞️ I’m looking to collaborate on data science projects, particularly those involving machine learning, generative AI, and predictive analytics.
 
-📫 How to reach me: You can reach me via LinkedIn or email me at your.email@example.com.
+📫 How to reach me: You can reach me via LinkedIn or email me at sheemamasood381@gmail.com.
 
 😄 Pronouns: She/Her
 
