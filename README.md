@@ -1,5 +1,6 @@
+# 👋 Hi, I’m @SheemaMasood381
 
-👋 Hi, I’m @SheemaMasood381
+## About Me
 
 👀 I’m interested in data science, machine learning, data visualization, and generative AI.
 
@@ -7,11 +8,19 @@
 
 💞️ I’m looking to collaborate on data science projects, particularly those involving machine learning, generative AI, and predictive analytics.
 
-📫 How to reach me: You can reach me via LinkedIn or email me at sheemamasood381@gmail.com.
+## How to Reach Me
 
-😄 Pronouns: She/Her
+📫 You can reach me via [LinkedIn](https://www.linkedin.com/in/sheema-masood-a93017292/) 
+or
+email me at [sheemamasood381@gmail.com](mailto:sheemamasood381@gmail.com).
 
-⚡ Fun fact: I love exploring new technologies and applying them to solve real-world problems. In my free time, I enjoy hiking and trying out new recipes.
+## Pronouns
+
+😄 She/Her
+
+## Fun Fact
+
+⚡ I love exploring new technologies and applying them to solve real-world problems. In my free time, I enjoy hiking and trying out new recipes.
 
 <!---
 
