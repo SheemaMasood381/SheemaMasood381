@@ -1,8 +1,7 @@
 
-[![Business Card](./business-card-preview.gif)](./DataScientist Sheema Masood.mp4)
+## Business Card
 
-*(Make sure you've uploaded your MP4 file and an optional GIF preview for this to work.)*
-
+![Business Card](./DataScientist%20Sheema%20Masood.gif)
 ## About Me
 
 👀 I’m passionate about deep learning, artificial intelligence (AI), and research in cutting-edge AI technologies.
