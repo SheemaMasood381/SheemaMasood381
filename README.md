@@ -1,7 +1,5 @@
-
-## Business Card
-
 ![Business Card](./DataScientist%20Sheema%20Masood.gif)
+
 ## About Me
 
 👀 I’m passionate about deep learning, artificial intelligence (AI), and research in cutting-edge AI technologies.
