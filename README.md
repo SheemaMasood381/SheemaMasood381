@@ -35,5 +35,7 @@ With a relentless drive for **excellence** and a deep curiosity about **emerging
 ---
 
 ### Fun Fact:
-⚡ I love solving complex problems, experimenting with innovative ideas, and contributing to the tech community.
+⚡ Professionally, I am a pharmacist (Pharm D), but my true passion has always been technology.
+I believe that passion always finds its way, and my journey from healthcare to AI and tech innovation is a testament to that.
 
+⚡ I thrive on solving complex problems, experimenting with innovative ideas, and making meaningful contributions to the tech community.
