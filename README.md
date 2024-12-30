@@ -23,7 +23,7 @@ With a relentless drive for **excellence** and a deep curiosity about **emerging
 
 ### Explore My Work:
 - 🏆 Check out my **Kaggle profile** to see my competitive projects and data science notebooks: [Kaggle](https://www.kaggle.com/sheemamasood)
-- 🔗 A comprehensive list of my projects can also be found [here on GitHub](https://github.com/your-username).
+- 🔗 A comprehensive list of my projects can also be found [here on GitHub](https://github.com/sheemamasood381).
 
 ---
 
