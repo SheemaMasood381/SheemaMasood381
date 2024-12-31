@@ -25,6 +25,12 @@ With a relentless drive for **excellence** and a deep curiosity about **emerging
 - 🏆 Check out my **Kaggle profile** to see my competitive projects and data science notebooks: [Kaggle](https://www.kaggle.com/sheemamasood)
 - 🔗 A comprehensive list of my projects can also be found [here on GitHub](https://github.com/sheemamasood381).
 
+### Featured Repositories:
+- [🌟 Virtual Navigation Assistance Using YOLOv11](https://github.com/SheemaMasood381/Virtual-Navigation-Assistance-Yolo11)  
+- [📊 Blood Glucose Levels Prediction (Kaggle Competition)](https://github.com/SheemaMasood381/Blood-Glucose-Levels-Prediction-2024-kaggle-competition)  
+- [🔬 RSNA 2024 Lumbar Spine Degeneration Classification](https://github.com/SheemaMasood381/RSNA-2024-LumbarSpineDenerationClassification)  
+- [🚀 Machine Learning Projects](https://github.com/SheemaMasood381/Machine-Learning)  
+
 ---
 ## Skills
 - **Languages:** [Python]
