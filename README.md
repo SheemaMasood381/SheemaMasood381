@@ -26,6 +26,12 @@ With a relentless drive for **excellence** and a deep curiosity about **emerging
 - 🔗 A comprehensive list of my projects can also be found [here on GitHub](https://github.com/sheemamasood381).
 
 ---
+## Skills
+- **Languages:** [Python]
+- **Frameworks:** [Flask, Fast API, Streamlit]
+- **Tools:** [Git, Docker, VS Code, JIRA]
+
+----
 
 ### Let's Connect:
 - 🌐 [LinkedIn](https://www.linkedin.com/in/sheema-masood/)
@@ -33,9 +39,21 @@ With a relentless drive for **excellence** and a deep curiosity about **emerging
 - 📊 [Kaggle](https://www.kaggle.com/sheemamasood)
 
 ---
+## GitHub Stats
+![Sheema's GitHub stats](https://github-readme-stats.vercel.app/api?username=SheemaMasood381&show_icons=true&theme=radical)
+
+---
+
+## Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SheemaMasood381&layout=compact&theme=radical)
+
+------
 
 ### Fun Fact:
 ⚡ Professionally, I am a pharmacist (Pharm D), but my true passion has always been technology.
 I believe that passion always finds its way, and my journey from healthcare to AI and tech innovation is a testament to that.
 
 ⚡ I thrive on solving complex problems, experimenting with innovative ideas, and making meaningful contributions to the tech community.
+------
+
+Thank you for visiting my profile! Let's connect and collaborate on exciting projects!
