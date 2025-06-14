@@ -179,12 +179,17 @@ I’m fueled by a deep **curiosity for emerging technologies** and a strong driv
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SheemaMasood381&layout=compact&theme=radical)
 
 ------
+### ⚡ From Pharmacy to AI: A Journey Fueled by Passion
 
-### Fun Fact:
-⚡ Professionally, I am a pharmacist (Pharm D), but my true passion has always been technology.
-I believe that passion always finds its way, and my journey from healthcare to AI and tech innovation is a testament to that.
+While I hold a Doctor of Pharmacy (Pharm D), my heart has always belonged to technology.  
+What began as curiosity evolved into a deep commitment to **AI innovation**, proving that passion truly finds its path — even across disciplines.
 
-⚡ I thrive on solving complex problems, experimenting with innovative ideas, and making meaningful contributions to the tech community.
-------
+Today, I combine scientific precision with technical creativity to:
+- Solve complex, real-world problems  
+- Build impactful AI systems  
+- Contribute meaningfully to the global tech community
 
-Thank you for visiting my profile! Let's connect and collaborate on exciting projects!
+---
+
+Thanks for stopping by!  
+Let’s **connect**, **collaborate**, and build something extraordinary together. 🚀
