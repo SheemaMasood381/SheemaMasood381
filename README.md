@@ -4,9 +4,12 @@
 # 🌟 AI Engineer | Agentic Systems Developer | LLM Innovator | Hackathons Competitor | Kaggle Challenger
 
 
-###Building the next generation of AI — from data pipelines to intelligent agents 🚀
-### Bridging data-driven insights and cutting-edge AI innovation 🚀  
-As a passionate technologist, I specialize in leveraging **machine learning**, **data analysis**, and **AI engineering** to craft impactful solutions.
+### 🚀 Building the Next Generation of AI — From Data Pipelines to Intelligent Agents
+
+I'm a passionate technologist at the intersection of **machine learning**, **data science**, and **AI engineering** — driven to transform ideas into real-world, impactful solutions.
+
+Whether it's designing **intelligent agents**, optimizing **LLM workflows**, or crafting **data-driven models**, I thrive on building systems that are smart, scalable, and meaningful.
+
 
 ---
 
