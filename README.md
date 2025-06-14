@@ -1,4 +1,4 @@
-![Business Card](./DataScientist%20Sheema%20Masood.gif)
+![Business Card](./aiengineer.gif)
 
 
 # 🌟 Data Scientist | Certified Agentic and Robotic AI Engineer | Aspiring Innovator
