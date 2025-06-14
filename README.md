@@ -1,4 +1,4 @@
-![Business Card](./aiengineer.gif)
+![Business Card](aiengineer.gif)
 
 
 # 🌟 Data Scientist | Certified Agentic and Robotic AI Engineer | Aspiring Innovator
