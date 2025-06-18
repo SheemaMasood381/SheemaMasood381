@@ -14,6 +14,8 @@ Whether it's designing **intelligent agents**, optimizing **LLM workflows**, or 
 ![Kaggle](https://img.shields.io/badge/Kaggle-Competitor-blue?logo=kaggle)
 ![Hackathons](https://img.shields.io/badge/Hackathon-Finalist-orange?logo=hackerrank)
 ![LangChain](https://img.shields.io/badge/LangChain-Developer-green?logo=python)
+![CrewAI](https://img.shields.io/badge/CrewAI-Multi--Agent-blueviolet)
+
 
 
 ## 🔍 About Me
