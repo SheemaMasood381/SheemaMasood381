@@ -67,8 +67,17 @@ I’m fueled by a deep **curiosity for emerging technologies** and a strong driv
 > 🥇 Ranked **25th on public LB**, **29th on private LB** with **F1 score: 0.80**
 > - Used **EfficientNet**, **ViT**, and custom augmentations
 > - Selected among standout solutions; requested to present methodology due to high-quality results
-
 ---
+
+### 🌸 [Petals to the Metal – Flower Classification on TPU (3rd Place)](https://www.kaggle.com/code/sheemamasood/petals-to-the-metals-tpu)
+### 🏵️ [Petals to the Metal – Flower Classification on TPU (🥉 3rd Place)](...)
+
+> 🥉 Secured **3rd position** in the official Kaggle "Petals to the Metal" competition using macro-F1 evaluation.
+> - Built a high-performing ensemble using **ConvNeXtBase**, **InceptionResNetV2**, and **ResNet50**
+> - Performed **grid search** over weights (α, β, γ) to maximize F1 score
+> - Achieved **F1 score = 0.9568** on first submission 🚀
+> - Visualized results with **confusion matrix**, **classification report**, and **model comparison charts**
+------
 
 ### 🐦 [BirdCLEF 2025 – Bird Sound Classification (WIP)](https://github.com/SheemaMasood381/BirdCLEF-2025-Audio-Classification)
 > 🎯 Achieved **Top 19%** (Rank 378 / 2025) with **87% accuracy**
