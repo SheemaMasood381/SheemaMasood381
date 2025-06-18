@@ -16,8 +16,6 @@ Whether it's designing **intelligent agents**, optimizing **LLM workflows**, or 
 ![LangChain](https://img.shields.io/badge/LangChain-Developer-green?logo=python)
 ![CrewAI](https://img.shields.io/badge/CrewAI-Multi--Agent-blueviolet)
 
-
-
 ## 🔍 About Me
 
 💡 **Certified Agentic & Robotic AI Engineer** passionate about LLMs, intelligent agents, and real-world AI deployment.
@@ -39,14 +37,10 @@ Whether it's designing **intelligent agents**, optimizing **LLM workflows**, or 
 
 I’m fueled by a deep **curiosity for emerging technologies** and a strong drive to transform bold ideas into working AI systems.
 
-🚀 Whether it's building **voice-interactive portfolio agents**, optimizing **ML pipelines** for real-world data, or exploring **LLM-based automation**, I thrive at the edge of innovation.
-
 🤝 My mission is to:
 - Launch or contribute to **visionary startups** that use AI for real-world impact.
 - Collaborate with **forward-thinking teams** pushing boundaries in **agentic systems**, **robotics**, and **applied ML**.
 - Create tools that empower **humans and machines to work together** seamlessly.
-
-🔬 With every project, I aim to bridge the gap between **data, design, and decision-making** — bringing AI from research to reality.
 
 ---
 
@@ -131,7 +125,6 @@ I’m fueled by a deep **curiosity for emerging technologies** and a strong driv
 > - Uses **YOLOv11** for real-time object detection
 > - Designed for visually impaired users with audio guidance
 
-
 ---
 ## 🛠️ Technical Skills & Tools
 
@@ -141,31 +134,42 @@ I’m fueled by a deep **curiosity for emerging technologies** and a strong driv
 - **LangChain**, **CrewAI**, **FastAPI**, **Flask**
 
 ### 🤖 AI, LLMs & Agentic Systems
-- **LLMs**, **LangChain Agents**, **RAG Pipelines**
+- **LLMs**, **LangChain Agents**, **CrewAI**, **RAG Pipelines**
 - **Coral Protocol**, **Gemini API**, **Whisper**
-- **Vision Transformers (ViTs)**, **CNNs**, **Transfer Learning**
-- **Fine-tuning & Prompt Engineering**, **Generative AI**, **Explainable AI (SHAP, LIME)**
+- **ViTs**, **CNNs**, **Transfer Learning**
+- **Fine-tuning**, **Prompt Engineering**, **Generative AI**, **Explainable AI (SHAP, LIME)**
 
 ### 📊 Data Science & ML
 - **Regression**, **Classification**, **Time Series Forecasting**
 - **Feature Engineering**, **Model Optimization**, **Cross Validation**
-- **Exploratory Data Analysis (EDA)**, **Statistical Analysis**, **Data Wrangling**
+- **EDA**, **Statistical Analysis**, **Data Wrangling**
 
 ### 🖼️ Visualization & BI Tools
 - **Power BI**, **Matplotlib**, **Seaborn**, **Plotly**
-- **SHAP**, **LIME**, **Gradio Dashboards**, **Streamlit Apps**
+- **Gradio**, **Streamlit**, **SHAP**, **LIME**
 
-### ⚙️ Tools & Technologies
+### ⚙️ Tools & Tech
 - **OpenCV**, **Pandas**, **NumPy**, **ChromaDB**, **Hugging Face**
-- **API Integration (Serper, Gemini, LiteLLM)**
+- **Serper API**, **LiteLLM**, **API Integration**
 
-### 💻 Dev & Deployment Environments
-- **Jupyter Notebook**, **Google Colab**, **VS Code**, **PyCharm**, **Cursor**
-- **Streamlit**, **Gradio**, **Hugging Face Spaces**, **Render**
+### 💻 Dev & Deployment
+- **Jupyter**, **Colab**, **VS Code**, **Cursor**
+- **Gradio**, **Streamlit**, **Render**, **Hugging Face Spaces**
 
 ### 🧪 MLOps & Experimentation
 - **Model Experiment Tracking**, **Versioning**, **Kaggle Notebooks**
 
+---
+
+## 📜 Certifications
+
+## Certifications
+
+- [AI Genesis Certificate - Lablab.ai](https://lablab.ai/u/@SheemaMasood/cmab6ajyp003gce0spmn0f7bz)
+- [Gen AI 5-Day Training - Kaggle & Google](https://www.kaggle.com/certification/badges/sheemamasood/96)
+- [Applied Data Science Lab - WorldQuant University](https://www.credly.com/badges/2f3fb17a-8af0-48ba-b874-267d73196ce9/linked_in_profile)
+- [Neo4j Certification - GraphAcademy](https://graphacademy.neo4j.com/c/b451cb87-591a-4aff-8d9c-dc12cf33590f/)
+- [LangChain Certificate - LangChain Academy](https://academy.langchain.com/certificates/gvbwm3le3d)
 
 ----
 
