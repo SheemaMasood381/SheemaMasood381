@@ -1,8 +1,7 @@
 ![Business Card](./aiengineer.gif)
 
 
-# 🌟 AI Engineer | Agentic Systems Developer | LLM Innovator | Hackathons Competitor | Kaggle Challenger
-
+#  Building with purpose. Learning with obsession. Solving with AI.
 
 ### 🚀 Building the Next Generation of AI — From Data Pipelines to Intelligent Agents
 
@@ -10,8 +9,12 @@ I'm a passionate technologist at the intersection of **machine learning**, **dat
 
 Whether it's designing **intelligent agents**, optimizing **LLM workflows**, or crafting **data-driven models**, I thrive on building systems that are smart, scalable, and meaningful.
 
-
 ---
+
+![Kaggle](https://img.shields.io/badge/Kaggle-Competitor-blue?logo=kaggle)
+![Hackathons](https://img.shields.io/badge/Hackathon-Finalist-orange?logo=hackerrank)
+![LangChain](https://img.shields.io/badge/LangChain-Developer-green?logo=python)
+
 
 ## 🔍 About Me
 
