@@ -70,8 +70,6 @@ I’m fueled by a deep **curiosity for emerging technologies** and a strong driv
 ---
 
 ### 🌸 [Petals to the Metal – Flower Classification on TPU (3rd Place)](https://www.kaggle.com/code/sheemamasood/petals-to-the-metals-tpu)
-### 🏵️ [Petals to the Metal – Flower Classification on TPU (🥉 3rd Place)](...)
-
 > 🥉 Secured **3rd position** in the official Kaggle "Petals to the Metal" competition using macro-F1 evaluation.
 > - Built a high-performing ensemble using **ConvNeXtBase**, **InceptionResNetV2**, and **ResNet50**
 > - Performed **grid search** over weights (α, β, γ) to maximize F1 score
