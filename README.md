@@ -163,8 +163,6 @@ I’m fueled by a deep **curiosity for emerging technologies** and a strong driv
 
 ## 📜 Certifications
 
-## Certifications
-
 - [AI Genesis Certificate - Lablab.ai](https://lablab.ai/u/@SheemaMasood/cmab6ajyp003gce0spmn0f7bz)
 - [Gen AI 5-Day Training - Kaggle & Google](https://www.kaggle.com/certification/badges/sheemamasood/96)
 - [Applied Data Science Lab - WorldQuant University](https://www.credly.com/badges/2f3fb17a-8af0-48ba-b874-267d73196ce9/linked_in_profile)
