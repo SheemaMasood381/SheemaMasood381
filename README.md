@@ -11,10 +11,19 @@ Whether it's designing **intelligent agents**, optimizing **LLM workflows**, or 
 
 ---
 
-![Kaggle](https://img.shields.io/badge/Kaggle-Competitor-blue?logo=kaggle)
-![Hackathons](https://img.shields.io/badge/Hackathon-Finalist-orange?logo=hackerrank)
-![LangChain](https://img.shields.io/badge/LangChain-Developer-green?logo=python)
-![CrewAI](https://img.shields.io/badge/CrewAI-Multi--Agent-blueviolet)
+![Python](https://img.shields.io/badge/Python-Expert-yellow?logo=python)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-Developer-orange?logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/PyTorch-Practitioner-red?logo=pytorch)
+![Streamlit](https://img.shields.io/badge/Streamlit-App%20Builder-ff4b4b?logo=streamlit)
+![Solana](https://img.shields.io/badge/Solana-Blockchain-9945FF?logo=solana)
+![MistralAI](https://img.shields.io/badge/Mistral-LLM-black)
+![OpenAI](https://img.shields.io/badge/OpenAI-Developer-412991?logo=openai)
+![RAG](https://img.shields.io/badge/RAG-Implementer-brightgreen)
+![Docker](https://img.shields.io/badge/Docker-Containerization-2496ED?logo=docker)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-2088FF?logo=githubactions)
+![Vertex AI](https://img.shields.io/badge/Vertex%20AI-ML%20Ops-4285F4?logo=googlecloud)
+![Lablab.ai](https://img.shields.io/badge/Lablab.ai-Hackathon%20Builder-purple)
+
 
 ## 🔍 About Me
 
@@ -109,78 +118,80 @@ I’m fueled by a deep **curiosity for emerging technologies** and a strong driv
 
 ---
 
-### 🔊 [Voice-to-Voice AI Chatbot – GenAI Tool](https://github.com/SheemaMasood381/Voice-to-Voice-AI-Assistant)
+### 🔊 [Voice-to-Voice AI Chatbot – GenAI Tool](https://github.com/SheemaMasood381/Generative-Ai/tree/main/02_Voice%20to%20Voice%20chatbot)
 > 🗣️ Real-time voice chatbot using **Whisper**, **Llama3**, and **gTTS**
 > - Reduces typing effort by 90%, ideal for customer support
 > - Conversational, human-like interaction via Gradio interface
 
 ---
 
-### 📄 [PDF Genius – AI Chat & Summarizer](https://github.com/SheemaMasood381/PDF-Genius-AI-Chat)
+### 📄 [PDF Genius – AI Chat & Summarizer](https://github.com/SheemaMasood381/Generative-Ai/tree/main/06_PDF_Genius)
 > 📚 Document Q&A and summarization using **Gemini** + **ChromaDB**
 > - Extracts insights from PDFs, saving 70% review time
 > - Gradio UI for instant document interrogation
 
 ---
 
-### 📝 [Text Summarizer – AI Utility App](https://github.com/SheemaMasood381/Text-Summarizer)
+### 📝 [Text Summarizer – AI Utility App](https://github.com/SheemaMasood381/Generative-Ai/tree/main/01_Text%20Summarizer)
 > 🔎 Cuts down reading time by 80%
 > - Summarizes PDFs, Word, and TXT files using **Gemini + Gradio**
 > - Ideal for researchers and students needing instant insights
 
 ---
 
-### 👽 [Fine-tuned Yoda Speech AI – Hugging Face + Gemini](https://github.com/SheemaMasood381/Yoda-Speech-AI)
+### 👽 [Fine-tuned Yoda Speech AI – Hugging Face + Gemini](https://github.com/SheemaMasood381/Generative-Ai/tree/main/03_FineTuning%20LLM)
 > 🎭 A fun NLP project fine-tuning **LLMs** for Yoda-style speech generation
 > - Entertainment + creative writing use case
 > - Deployed with Gradio for live demo interaction
 
 ---
-
-### 🦾 [Virtual Navigation Assistant Using YOLOv11](https://github.com/SheemaMasood381/Virtual-Navigation-Assistance-Yolo11)
-> 👁️‍🗨️ Built for indoor assistive navigation
-> - Uses **YOLOv11** for real-time object detection
-> - Designed for visually impaired users with audio guidance
-
----
 ## 🛠️ Technical Skills & Tools
 
 ### 👩‍💻 Languages & Frameworks
-- **Python**, **SQL**
+- **Python**, **SQL**, **JavaScript (Basics)**
 - **PyTorch**, **TensorFlow**, **Scikit-learn**
-- **LangChain**, **CrewAI**, **FastAPI**, **Flask**
+- **LangChain**, **CrewAI**, **FastAPI**, **Flask**, **Streamlit**
 
 ### 🤖 AI, LLMs & Agentic Systems
-- **LLMs**, **LangChain Agents**, **CrewAI**, **RAG Pipelines**
-- **Coral Protocol**, **Gemini API**, **Whisper**
-- **ViTs**, **CNNs**, **Transfer Learning**
-- **Fine-tuning**, **Prompt Engineering**, **Generative AI**, **Explainable AI (SHAP, LIME)**
+- **LLMs** (OpenAI, Gemini, LLaMA, Mistral)
+- **LangChain Agents**, **CrewAI Multi-Agent Workflows**
+- **RAG Pipelines**, **Vector DBs** (ChromaDB, FAISS, Pinecone)
+- **Coral Protocol (MCP)**, **Solana Pay AI Agents**
+- **Whisper**, **Voice AI**, **Speech-to-Text / TTS**
+- **Vision Transformers (ViTs)**, **CNNs**, **Transfer Learning**
+- **Fine-tuning**, **Prompt Engineering**, **Generative AI**
+- **Explainable AI** (SHAP, LIME)
 
-### 📊 Data Science & ML
+### 📊 Data Science & Machine Learning
 - **Regression**, **Classification**, **Time Series Forecasting**
 - **Feature Engineering**, **Model Optimization**, **Cross Validation**
 - **EDA**, **Statistical Analysis**, **Data Wrangling**
 
 ### 🖼️ Visualization & BI Tools
 - **Power BI**, **Matplotlib**, **Seaborn**, **Plotly**
-- **Gradio**, **Streamlit**, **SHAP**, **LIME**
+- **Gradio**, **Streamlit**, **Interactive Dashboards**
 
-### ⚙️ Tools & Tech
-- **OpenCV**, **Pandas**, **NumPy**, **ChromaDB**, **Hugging Face**
-- **Serper API**, **LiteLLM**, **API Integration**
+### ⚙️ Tools, Libraries & Tech
+- **OpenCV**, **Pandas**, **NumPy**
+- **Hugging Face**, **Serper API**, **LiteLLM**
+- **API Integration**, **Agent-API Orchestration**
 
-### 💻 Dev & Deployment
+### 💻 DevOps, Deployment & Cloud
+- **Docker**, **GitHub Actions (CI/CD)**
+- **Render**, **Hugging Face Spaces**, **Vertex AI**
 - **Jupyter**, **Colab**, **VS Code**, **Cursor**
-- **Gradio**, **Streamlit**, **Render**, **Hugging Face Spaces**
 
 ### 🧪 MLOps & Experimentation
-- **Model Experiment Tracking**, **Versioning**, **Kaggle Notebooks**
+- **Experiment Tracking**, **Model Versioning**
+- **Feature Stores**, **Model Registries**
+- **Kaggle Notebooks & Competitions**
 
----
+----------
 
 ## 📜 Certifications
 
-- [AI Genesis Certificate - Lablab.ai](https://lablab.ai/u/@SheemaMasood/cmab6ajyp003gce0spmn0f7bz)
+- [🏆 Certificate of Achievement – Internet of Agents Hackathon @Solana Skyline - Lablab.ai](https://lablab.ai/u/@SheemaMasood/cmg2m2jol002j500reeb7mqsq)  
+- [🏆 Certificate of Achievement - AI Genesis Certificate - Lablab.ai](https://lablab.ai/u/@SheemaMasood/cmab6ajyp003gce0spmn0f7bz)
 - [Gen AI 5-Day Training - Kaggle & Google](https://www.kaggle.com/certification/badges/sheemamasood/96)
 - [Applied Data Science Lab - WorldQuant University](https://www.credly.com/badges/2f3fb17a-8af0-48ba-b874-267d73196ce9/linked_in_profile)
 - [Neo4j Certification - GraphAcademy](https://graphacademy.neo4j.com/c/b451cb87-591a-4aff-8d9c-dc12cf33590f/)
