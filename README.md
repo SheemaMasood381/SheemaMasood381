@@ -9,27 +9,6 @@ I'm a passionate technologist at the intersection of **machine learning**, **dat
 
 Whether it's designing **intelligent agents**, optimizing **LLM workflows**, or crafting **data-driven models**, I thrive on building systems that are smart, scalable, and meaningful.
 
-------
-<!-- Horizontal Badges Row -->
-<div style="display: flex; flex-wrap: nowrap; overflow-x: auto; gap: 8px; padding: 4px 0;">
-  <img src="https://img.shields.io/badge/Python-Expert-yellow?logo=python" alt="Python">
-  <img src="https://img.shields.io/badge/TensorFlow-Developer-orange?logo=tensorflow" alt="TensorFlow">
-  <img src="https://img.shields.io/badge/PyTorch-Practitioner-red?logo=pytorch" alt="PyTorch">
-  <img src="https://img.shields.io/badge/RAG-Implementer-brightgreen" alt="RAG">
-  <img src="https://img.shields.io/badge/Vertex%20AI-ML%20Ops-4285F4?logo=googlecloud" alt="Vertex AI">
-  <img src="https://img.shields.io/badge/MistralAI-LLM-black" alt="MistralAI">
-  <img src="https://img.shields.io/badge/OpenAI-Developer-412991?logo=openai" alt="OpenAI">
-  <img src="https://img.shields.io/badge/Streamlit-App%20Builder-ff4b4b?logo=streamlit" alt="Streamlit">
-  <img src="https://img.shields.io/badge/CrewAI-Multi--Agent-blueviolet" alt="CrewAI">
-  <img src="https://img.shields.io/badge/LangChain-Developer-green?logo=python" alt="LangChain">
-  <img src="https://img.shields.io/badge/Solana-Blockchain-9945FF?logo=solana" alt="Solana">
-  <img src="https://img.shields.io/badge/Docker-Containerization-2496ED?logo=docker" alt="Docker">
-  <img src="https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-2088FF?logo=githubactions" alt="GitHub Actions">
-  <img src="https://img.shields.io/badge/Lablab.ai-Hackathon%20Builder-purple" alt="Lablab.ai">
-  <img src="https://img.shields.io/badge/Kaggle-Competitor-blue?logo=kaggle" alt="Kaggle">
-  <img src="https://img.shields.io/badge/Hackathons-Finalist-orange?logo=hackerrank" alt="Hackathons">
-</div>
-
 ---
 
 <!-- Badges Section -->
