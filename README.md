@@ -59,7 +59,8 @@ I’m fueled by a deep **curiosity for emerging technologies** and a strong driv
   - Integrated **CrewAI multi-agent workflows**, **RAG**, **Solana Pay (DEVnet demo)** + **Helius API** for on-chain verification  
   - Added **voice search (Whisper GPT-4o)** for multilingual queries  
   - 🎖️ **Project Spotlight** by [AIMLAPI](https://www.linkedin.com/posts/aimlapi_project-spotlight-cheapestbuy-ai-by-muhammad-activity-7377464955979333632-fxcz)  
-  - 🎤 Invited to present at **AIMLAPI Shark Tank (Discord livestream)**  
+  - 🎤 Invited to present at **AIMLAPI Shark Tank (Discord livestream)**
+  - - 🔗 **Live Demo on Render:** [Click to Explore](https://cheapestbuy-internet-of-agents-lablab.onrender.com)
 
 - 🏅 **Hackathon Finalist & Multiple Top Ranks on Kaggle**  
   - *Petals to the Metal* (3rd place, official Kaggle competition)  
