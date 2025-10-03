@@ -65,7 +65,7 @@ I’m fueled by a deep **curiosity for emerging technologies** and a strong driv
 
 ## 🚀 Featured Projects
 
-### 🛍️ [ShopSmart.ai – Lablab.ai Hackathon (4⭐ by Judges)](https://github.com/SheemaMasood381/ShopSmart-AI)
+### 🛍️ [ShopSmart.ai – Lablab.ai Hackathon (4⭐ by Judges)](https://github.com/SheemaMasood381/Execute_Ai_Genesis_Hackathon_Lablabai_april2025)
 > 🧠 Multi-agent shopping assistant using **CrewAI**, **Gemini**, **Whisper**, **Serper API**, and **LiteLLM**.
 > - Personalized recommendations and product summarization via RAG
 > - Real-time product parsing & comparison with voice and text support
@@ -73,13 +73,13 @@ I’m fueled by a deep **curiosity for emerging technologies** and a strong driv
 
 ---
 
-### 🧠 [Detect AI vs Human-Generated Images – Kaggle](https://github.com/SheemaMasood381/Detect-AI-vs-Human-Images-Kaggle)
+### 🧠 [Detect AI vs Human-Generated Images – Kaggle](https://github.com/SheemaMasood381/Detect_AI_vs_Human_Generated_Image)
 > 🥇 Ranked **25th on public LB**, **29th on private LB** with **F1 score: 0.80**
 > - Used **EfficientNet**, **ViT**, and custom augmentations
 > - Selected among standout solutions; requested to present methodology due to high-quality results
 ---
 
-### 🌸 [Petals to the Metal – Flower Classification on TPU (3rd Place)](https://www.kaggle.com/code/sheemamasood/petals-to-the-metals-tpu)
+### 🌸 [Petals to the Metal – Flower Classification on TPU (3rd Place)](https://github.com/SheemaMasood381/Kaggle-Competitions/tree/main/Petals%20to%20the%20Metals-TPU)
 > 🥉 Secured **3rd position** in the official Kaggle "Petals to the Metal" competition using macro-F1 evaluation.
 > - Built a high-performing ensemble using **ConvNeXtBase**, **InceptionResNetV2**, and **ResNet50**
 > - Performed **grid search** over weights (α, β, γ) to maximize F1 score
@@ -87,7 +87,7 @@ I’m fueled by a deep **curiosity for emerging technologies** and a strong driv
 > - Visualized results with **confusion matrix**, **classification report**, and **model comparison charts**
 ------
 
-### 🐦 [BirdCLEF 2025 – Bird Sound Classification (WIP)](https://github.com/SheemaMasood381/BirdCLEF-2025-Audio-Classification)
+### 🐦 [BirdCLEF 2025 – Bird Sound Classification (WIP)](https://github.com/SheemaMasood381/BirdClef-2025-Kaggle)
 > 🎯 Achieved **Top 19%** (Rank 378 / 2025) with **87% accuracy**
 > - Custom mel-spectrogram pipeline using **seresnext26t_32x4d**
 > - Advanced TTA, chunking, and ensemble inference
