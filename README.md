@@ -29,7 +29,7 @@ Whether it's designing **intelligent agents**, optimizing **LLM workflows**, or 
 
 💡 **Certified Agentic & Robotic AI Engineer** passionate about LLMs, intelligent agents, and real-world AI deployment.
 
-💻 Currently interning at **10Pearls**, where I explore innovations in **LangChain**, **RAG pipelines**, and **agentic systems** to build scalable, impactful AI solutions.
+💻 Previously interned at **10Pearls**, where I explored innovations in **LangChain**, **RAG pipelines**, and **agentic systems** to build scalable AI solutions.  
 
 🧠 I come from a **Pharm D** background, blending scientific precision with AI engineering to craft meaningful, data-driven applications.
 
@@ -50,12 +50,6 @@ I’m fueled by a deep **curiosity for emerging technologies** and a strong driv
 - Launch or contribute to **visionary startups** that use AI for real-world impact.
 - Collaborate with **forward-thinking teams** pushing boundaries in **agentic systems**, **robotics**, and **applied ML**.
 - Create tools that empower **humans and machines to work together** seamlessly.
-
----
-
-### Explore My Work:
-- 🏆 Check out my **Kaggle profile** to see my competitive projects and data science notebooks: [Kaggle](https://www.kaggle.com/sheemamasood)
-- 🔗 A comprehensive list of my projects can also be found [here on GitHub](https://github.com/sheemamasood381).
 
 ----
 ## 🏆 Featured Achievements  
