@@ -57,13 +57,11 @@ I’m fueled by a deep **curiosity for emerging technologies** and a strong driv
   - Added **voice search (Whisper GPT-4o)** for multilingual queries  
   - 🎖️ **Project Spotlight** by [AIMLAPI](https://www.linkedin.com/posts/aimlapi_project-spotlight-cheapestbuy-ai-by-muhammad-activity-7377464955979333632-fxcz)  
   - 🎤 Invited to present at **AIMLAPI Shark Tank (Discord livestream)**  
-  - 📜 Hackathon participation certificate (to be shared soon!)  
 
 - 🏅 **Hackathon Finalist & Multiple Top Ranks on Kaggle**  
   - *Petals to the Metal* (3rd place, official Kaggle competition)  
   - *Blood Glucose Prediction* (Top 15%)  
   - *Detect AI vs Human Images* (Top 25 public LB, invited to share methodology)  
-
 
 ## 🚀 Featured Projects
 
