@@ -48,12 +48,24 @@ I’m fueled by a deep **curiosity for emerging technologies** and a strong driv
 - 🏆 Check out my **Kaggle profile** to see my competitive projects and data science notebooks: [Kaggle](https://www.kaggle.com/sheemamasood)
 - 🔗 A comprehensive list of my projects can also be found [here on GitHub](https://github.com/sheemamasood381).
 
+----
+## 🏆 Featured Achievements  
+
+- 🚀 **CheapestBuy.AI** — Built at *Internet of Agents Hackathon @Solana Skyline (lablab.ai, Solana, Coral MCP, Mistral AI, AIMLAPI)*  
+  - Registered shopping agent on **Coral MCP**  
+  - Integrated **CrewAI multi-agent workflows**, **RAG**, **Solana Pay (DEVnet demo)** + **Helius API** for on-chain verification  
+  - Added **voice search (Whisper GPT-4o)** for multilingual queries  
+  - 🎖️ **Project Spotlight** by [AIMLAPI](https://www.linkedin.com/posts/aimlapi_project-spotlight-cheapestbuy-ai-by-muhammad-activity-7377464955979333632-fxcz)  
+  - 🎤 Invited to present at **AIMLAPI Shark Tank (Discord livestream)**  
+  - 📜 Hackathon participation certificate (to be shared soon!)  
+
+- 🏅 **Hackathon Finalist & Multiple Top Ranks on Kaggle**  
+  - *Petals to the Metal* (3rd place, official Kaggle competition)  
+  - *Blood Glucose Prediction* (Top 15%)  
+  - *Detect AI vs Human Images* (Top 25 public LB, invited to share methodology)  
+
+
 ## 🚀 Featured Projects
-
-### 🗂 Voxtar – AI Portfolio Agent (**Coming Soon**)
-> A voice-powered AI portfolio agent built with **Coral Protocol** and **LLMs** to enable real-time, interactive storytelling. Designed for the **Raise Your Hack 2025** hackathon. Aims to revolutionize how professionals present their work via agent-first web presence.
-
----
 
 ### 🛍️ [ShopSmart.ai – Lablab.ai Hackathon (4⭐ by Judges)](https://github.com/SheemaMasood381/ShopSmart-AI)
 > 🧠 Multi-agent shopping assistant using **CrewAI**, **Gemini**, **Whisper**, **Serper API**, and **LiteLLM**.
