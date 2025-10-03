@@ -11,18 +11,23 @@ Whether it's designing **intelligent agents**, optimizing **LLM workflows**, or 
 
 ---
 
+<!-- Badges Section -->
 ![Python](https://img.shields.io/badge/Python-Expert-yellow?logo=python)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-Developer-orange?logo=tensorflow)
 ![PyTorch](https://img.shields.io/badge/PyTorch-Practitioner-red?logo=pytorch)
-![Streamlit](https://img.shields.io/badge/Streamlit-App%20Builder-ff4b4b?logo=streamlit)
-![Solana](https://img.shields.io/badge/Solana-Blockchain-9945FF?logo=solana)
+![RAG](https://img.shields.io/badge/RAG-Implementer-brightgreen)
+![Vertex AI](https://img.shields.io/badge/Vertex%20AI-ML%20Ops-4285F4?logo=googlecloud)
 ![MistralAI](https://img.shields.io/badge/Mistral-LLM-black)
 ![OpenAI](https://img.shields.io/badge/OpenAI-Developer-412991?logo=openai)
-![RAG](https://img.shields.io/badge/RAG-Implementer-brightgreen)
+![Streamlit](https://img.shields.io/badge/Streamlit-App%20Builder-ff4b4b?logo=streamlit)
+![CrewAI](https://img.shields.io/badge/CrewAI-Multi--Agent-blueviolet)
+![LangChain](https://img.shields.io/badge/LangChain-Developer-green?logo=python)
+![Solana](https://img.shields.io/badge/Solana-Blockchain-9945FF?logo=solana)
 ![Docker](https://img.shields.io/badge/Docker-Containerization-2496ED?logo=docker)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-2088FF?logo=githubactions)
-![Vertex AI](https://img.shields.io/badge/Vertex%20AI-ML%20Ops-4285F4?logo=googlecloud)
 ![Lablab.ai](https://img.shields.io/badge/Lablab.ai-Hackathon%20Builder-purple)
+![Kaggle](https://img.shields.io/badge/Kaggle-Competitor-blue?logo=kaggle)
+![Hackathons](https://img.shields.io/badge/Hackathon-Finalist-orange?logo=hackerrank)
 
 
 ## 🔍 About Me
