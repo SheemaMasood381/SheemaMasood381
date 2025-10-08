@@ -3,11 +3,11 @@
 
 #  Building with purpose. Learning with obsession. Solving with AI.
 
-### 🚀 Building the Next Generation of AI — From Data Pipelines to Intelligent Agents
+### 🚀 Automating the Future!!!!   ' From LLM Pipelines to Autonomous Workflows '
 
-I'm a passionate technologist at the intersection of **machine learning**, **data science**, and **AI engineering** — driven to transform ideas into real-world, impactful solutions.
+I'm an **AI Automation Engineer** at the intersection of **machine learning**, **agentic systems**, and **workflow intelligence** — passionate about transforming ideas into autonomous, scalable solutions.
 
-Whether it's designing **intelligent agents**, optimizing **LLM workflows**, or crafting **data-driven models**, I thrive on building systems that are smart, scalable, and meaningful.
+Whether it’s orchestrating **LLM-driven workflows**, building **n8n automations**, or crafting **intelligent agents**, I thrive on creating systems that **think, act, and evolve**.
 
 ---
 
@@ -32,31 +32,38 @@ Whether it's designing **intelligent agents**, optimizing **LLM workflows**, or 
 
 ## 🔍 About Me
 
-💡 **Certified Agentic & Robotic AI Engineer** passionate about LLMs, intelligent agents, and real-world AI deployment.
+💡 **AI Automation Engineer** passionate about **LLMs, agentic systems, and intelligent automation**.  
+I specialize in connecting **data pipelines**, **APIs**, and **AI models** using **n8n**, **Python**, and **LangChain** — crafting automations that enhance productivity and decision-making.
 
-💻 Previously interned at **10Pearls**, where I explored innovations in **LangChain**, **RAG pipelines**, and **agentic systems** to build scalable AI solutions.  
+🧠 My expertise lies in:
+- Building **agentic multi-agent ecosystems** using **CrewAI**, **LangChain**, and **LLMs**.  
+- Designing **end-to-end automation workflows** (document processing, chatbots, AI assistants).  
+- Engineering **Generative AI pipelines** for text, voice, and data-driven tasks.  
+- Deploying scalable AI systems with **Docker**, **Vertex AI**, and **GitHub Actions**.
 
-🧠 I come from a **Pharm D** background, blending scientific precision with AI engineering to craft meaningful, data-driven applications.
+With a **Pharm.D** background, I bring analytical precision and real-world empathy into AI — ensuring every system I build *matters*.
 
-🧪 Some of my most impactful projects include:
-- A personal AI portfolio agent built with Coral Protocol, enabling voice-driven interaction with real-time LLM responses.
-- A virtual navigation assistant using YOLOv11 for real-time object detection to assist visually impaired users.
-- A Kaggle competition solution focused on time-series forecasting for blood glucose prediction.
-- A deep learning model for classifying spinal degeneration using medical imaging data from RSNA.
+---
 
-🌱 I’m an active **Kaggle competitor** and **AI hackathon finalist**, always seeking opportunities to innovate and collaborate at the intersection of AI, healthcare, and robotics.
------------
+### ⚙️ AI Automation Workflows  
+> *Integrating n8n + LLMs + Python for business process automation*  
+- Developed **document parsing pipelines**, **voice-to-doc automation**, and **report generators**.  
+- Created **autonomous task orchestration** systems using multi-agent logic.  
+- Reduced manual workflow time by **90%** through intelligent automation.
+
+---
 
 ## 💭 What Drives Me
 
-I’m fueled by a deep **curiosity for emerging technologies** and a strong drive to transform bold ideas into working AI systems.
+I’m fueled by **curiosity and precision** — continuously learning, building, and deploying AI that transforms real-world workflows.  
 
-🤝 My mission is to:
-- Launch or contribute to **visionary startups** that use AI for real-world impact.
-- Collaborate with **forward-thinking teams** pushing boundaries in **agentic systems**, **robotics**, and **applied ML**.
-- Create tools that empower **humans and machines to work together** seamlessly.
+🤝 My mission:
+- To build **autonomous systems** that scale effortlessly.  
+- To collaborate on **AI-first startups** creating meaningful automation.  
+- To enable **humans + machines** to work together intelligently.  
 
-----
+---
+
 ## 🏆 Featured Achievements  
 
 - 🚀 **CheapestBuy.AI** — Built at *Internet of Agents Hackathon @Solana Skyline (lablab.ai, Solana, Coral MCP, Mistral AI, AIMLAPI)*  
