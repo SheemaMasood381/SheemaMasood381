@@ -210,6 +210,7 @@ I’m fueled by **curiosity and precision** — continuously learning, building,
 - 🌐 [LinkedIn](https://www.linkedin.com/in/sheema-masood/)
 - ✉️ [Email Me](mailto:sheemamasood381@gmail.com)
 - 📊 [Kaggle](https://www.kaggle.com/sheemamasood)
+- 💻 [GitHub](https://github.com/SheemaMasood381)
 
 ---
 ## GitHub Stats
@@ -221,17 +222,6 @@ I’m fueled by **curiosity and precision** — continuously learning, building,
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SheemaMasood381&layout=compact&theme=radical)
 
 ------
-### ⚡ From Pharmacy to AI: A Journey Fueled by Passion
-
-While I hold a Doctor of Pharmacy (Pharm D), my heart has always belonged to technology.  
-What began as curiosity evolved into a deep commitment to **AI innovation**, proving that passion truly finds its path — even across disciplines.
-
-Today, I combine scientific precision with technical creativity to:
-- Solve complex, real-world problems  
-- Build impactful AI systems  
-- Contribute meaningfully to the global tech community
-
----
-
+> *“Automation is not the end of work — it’s the evolution of intelligence.”*
 Thanks for stopping by!  
 Let’s **connect**, **collaborate**, and build something extraordinary together. 🚀
